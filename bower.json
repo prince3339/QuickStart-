@@ -1,0 +1,22 @@
+{
+  "name": "selise",
+  "homepage": "https://github.com/prince3339/selise",
+  "authors": [
+    "prince3339 <prince3339@ymail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap": "~3.3.6",
+    "font-awesome": "FortAwesome/Font-Awesome#~4.5.0"
+  }
+}
